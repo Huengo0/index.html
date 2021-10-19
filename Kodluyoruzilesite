@@ -1,0 +1,12 @@
+<!DOCTYPE html> <!--buraya dosya türünü yazdım-->
+<html>
+    <body>
+        <title>WhoAmI</title> <!--sekme başlığı gerekli değildi sanırım ama yazmak istedim-->
+        <h1>Hüseyin Gökmen</h1>
+        <h2>Hakkımda</h2>
+        <p>Selam, ben Hüseyin. Dumlupınar Üniversitesin'de Bilgisayar Programcılığı okuyorum. 1.Sınıftayım.Yüzmekten, kitap okumaktan, film/dizi izlemekten hoşlanıyorum ayrıca video oyunlarını da çok severim.</p>
+        <h3>Dizi, Oyun demişken:)</h3>
+        <p>The Witcher efsanesine bayılıyorum gerek kitapları gerek oyunları ve gerekse yeni çıkan -başrolde Hanry Cavil'in rol aldığı- The Witcher dizisine bayılıyorum! </p>
+
+    </body>
+</html>
