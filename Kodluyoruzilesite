@@ -1,12 +1,48 @@
 <!DOCTYPE html> <!--buraya dosya türünü yazdım-->
 <html>
-    <body>
-        <title>WhoAmI</title> <!--sekme başlığı gerekli değildi sanırım ama yazmak istedim-->
+<body>
+        <title>WhoAmIandWitcher</title> <!--sekme başlığı gerekli değildi sanırım ama yazmak istedim-->
         <h1>Hüseyin Gökmen</h1>
         <h2>Hakkımda</h2>
         <p>Selam, ben Hüseyin. Dumlupınar Üniversitesin'de Bilgisayar Programcılığı okuyorum. 1.Sınıftayım.Yüzmekten, kitap okumaktan, film/dizi izlemekten hoşlanıyorum ayrıca video oyunlarını da çok severim.</p>
         <h3>Dizi, Oyun demişken:)</h3>
         <p>The Witcher efsanesine bayılıyorum gerek kitapları gerek oyunları ve gerekse yeni çıkan -başrolde Hanry Cavil'in rol aldığı- The Witcher dizisine bayılıyorum! </p>
+<hr>
+        <h2>The Witcher</h2>
+        <p><b><i>Dizi, Oyun ve Kitap olarak ayıralım</i></b></p>
+    
+        <ul>
+            <li><strong>Dizi:</strong>IMDB puanı 8,2 olan dizide insanlar, elfler ve cüceler arasındaki barış sona erer. Geralt of Rivia ise şaşırma hakkı ile ister istemez malum çocuğa sahip olmak zorunda kalır.</li>
+        </ul>
+        <img src="https://lorefreaks.files.wordpress.com/2020/05/36792-aaaabxg51he-1qornsnu2kdkaqfl8k29htdk1-glycyzifnnul3vwammy2xvd5ybiowr2rfnegv4whwvoovnvmnmwnvfufiq.jpg" alt="dizisi">
+        <ul>
+        <li><strong>Oyunları:</strong>CD Project Red tarafından yapılan 3 ana oyun var:</li>
+                <ol>
+                        <em><li>The Witcher: Enhanced Edition</li>
+                        <li>The Witcher 2: Assassins of Kings</li>
+                        <li>The Witcher 3: Wild Hunt</li></em>
+                </ol>            
+        </ul>
+        <img src="https://s.yimg.com/uu/api/res/1.2/tlbdyc3X1QCXgfTrkTnkYA--~B/aD0xMDAwO3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&image_uri=https://s.yimg.com/os/creatr-uploaded-images/2019-08/e1001180-cb49-11e9-a9fe-59179a0f4f7c&client=a1acac3e1b3290917d92&signature=5b0d58707bf3a23a46e98a7cbffe6fbbd3eb27e7" alt="games">
+        <p><i>Geralt of Rivia<3</i></p>
+        <ul>
+                <li><strong>Kitapları:</strong></li>
+                <ol>
+                        <em>    <li>Son Dilek</li>
+                                <li>Kader Kılıcı</li>
+                                <li>Elflerin Kanı</li>
+                                <li>Nefret Çağı</li>
+                                <li>Ateşle İmtihanı</li>
+                                <li>Kırlangıç Kulesi</li>
+                                <li>Gölün Hanımı</li>
+                        </em>
+                </ol>
+        </ul>
+        <img src="https://images-na.ssl-images-amazon.com/images/I/51cVGMJPIPL._SX258_BO1,204,203,200_QL70_ML2_.jpg" alt="The Witcher 7 Kitap">
 
-    </body>
+
+<br>Teşekkürler Andrzej Sapkowski
+
+</body>
 </html>
+
